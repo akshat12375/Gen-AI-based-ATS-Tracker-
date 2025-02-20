@@ -74,5 +74,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please reach out at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please reach out at [akshatsri2005@gmail.com](mailto:your-akshatsri2005@gmail.com).
 
